@@ -47,11 +47,6 @@
   </url>
   
   <url>
-    <loc>https://xenodochial-aryabhata-90faab.netlify.app/tags/another-tag/</loc>
-    <lastmod>2021-02-16</lastmod>
-  </url>
-  
-  <url>
     <loc>https://xenodochial-aryabhata-90faab.netlify.app/tags/second-tag/</loc>
     <lastmod>2021-02-16</lastmod>
   </url>
@@ -62,7 +57,17 @@
   </url>
   
   <url>
+    <loc>https://xenodochial-aryabhata-90faab.netlify.app/tags/another-tag/</loc>
+    <lastmod>2021-02-16</lastmod>
+  </url>
+  
+  <url>
     <loc>https://xenodochial-aryabhata-90faab.netlify.app/contact/</loc>
     <lastmod>2021-02-23</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://xenodochial-aryabhata-90faab.netlify.app/admin/</loc>
+    <lastmod>2021-02-25</lastmod>
   </url>
 </urlset>
