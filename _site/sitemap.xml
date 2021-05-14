@@ -22,6 +22,11 @@
   </url>
   
   <url>
+    <loc>https://xenodochial-aryabhata-90faab.netlify.app/posts/blog/2021-02-25-asdf/</loc>
+    <lastmod>2021-02-12</lastmod>
+  </url>
+  
+  <url>
     <loc>https://xenodochial-aryabhata-90faab.netlify.app/about/</loc>
     <lastmod>2021-02-16</lastmod>
   </url>
@@ -47,7 +52,11 @@
   </url>
   
   <url>
+<<<<<<< Updated upstream
     <loc>https://xenodochial-aryabhata-90faab.netlify.app/tags/second-tag/</loc>
+=======
+    <loc>https://xenodochial-aryabhata-90faab.netlify.app/tags/number-2/</loc>
+>>>>>>> Stashed changes
     <lastmod>2021-02-16</lastmod>
   </url>
   
@@ -57,17 +66,12 @@
   </url>
   
   <url>
-    <loc>https://xenodochial-aryabhata-90faab.netlify.app/tags/number-2/</loc>
+    <loc>https://xenodochial-aryabhata-90faab.netlify.app/tags/second-tag/</loc>
     <lastmod>2021-02-16</lastmod>
   </url>
   
   <url>
     <loc>https://xenodochial-aryabhata-90faab.netlify.app/contact/</loc>
-    <lastmod>2021-02-23</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://xenodochial-aryabhata-90faab.netlify.app/admin/</loc>
     <lastmod>2021-02-25</lastmod>
   </url>
 </urlset>

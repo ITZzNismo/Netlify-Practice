@@ -5,12 +5,21 @@
 	
 	<link href="https://xenodochial-aryabhata-90faab.netlify.app/feed/feed.xml" rel="self"/>
 	<link href="https://xenodochial-aryabhata-90faab.netlify.app/"/>
-	<updated>2018-09-30T00:00:00Z</updated>
+	<updated>2021-02-12T20:19:38Z</updated>
 	<id>https://xenodochial-aryabhata-90faab.netlify.app/</id>
 	<author>
 		<name>Simon Powell</name>
 		<email>simonpowell2324@gmail.com</email>
 	</author>
+	
+	<entry>
+		<title>asdf</title>
+		<link href="https://xenodochial-aryabhata-90faab.netlify.app/posts/blog/2021-02-25-asdf/"/>
+		<updated>2021-02-12T20:19:38Z</updated>
+		<id>https://xenodochial-aryabhata-90faab.netlify.app/posts/blog/2021-02-25-asdf/</id>
+		<content type="html">&lt;p&gt;hello world!&lt;/p&gt;
+</content>
+	</entry>
 	
 	<entry>
 		<title>This is my fourth post.</title>
